@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314590964085",
+    "project_id": "rmonitor-8909b",
+    "storage_bucket": "rmonitor-8909b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314590964085:android:f7a0beab2c3f1542f60b3c",
+        "android_client_info": {
+          "package_name": "ru.ecom42.rmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314590964085-cfubhc49a5j2mrahq916sdq8kbpn7nef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG7xPdZexD7sToR-fk_90eHGgVcDX6kKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314590964085-cfubhc49a5j2mrahq916sdq8kbpn7nef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

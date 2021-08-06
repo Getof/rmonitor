@@ -1,0 +1,100 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+<!--    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">-->
+<!--        <item name="android:theme">@style/</item>-->
+<!--    </style>-->
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="ImagePickerTheme" parent="">
+        <item name="colorPrimary">#FF6E40</item>
+        <item name="colorPrimaryDark">#CC5833</item>
+        <item name="colorAccent">#607D8B</item>
+    </style>
+
+    <style name="AppTheme.Amaranth" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#0e8d94</item>
+        <item name="colorPrimaryDark">#0f7f85</item>
+        <item name="colorAccent">#ffac08</item>
+        <item name="colorControlHighlight">#ffc148</item>
+
+        <!--Note:This Line will be needed when we are going to user preference compat library<item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Material</item>-->
+    </style>
+
+    <style name="AppTheme.Red" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_red_500</item>
+        <item name="colorPrimaryDark">@color/md_red_700</item>
+        <item name="colorAccent">@color/md_blue_grey_500</item>
+        <item name="colorControlHighlight">@color/md_blue_grey_200</item>
+    </style>
+
+    <style name="AppTheme.Amber" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_amber_500</item>
+        <item name="colorPrimaryDark">@color/md_amber_700</item>
+        <item name="colorAccent">@color/md_deep_orange_500</item>
+        <item name="colorControlHighlight">@color/md_deep_orange_200</item>
+    </style>
+
+    <style name="AppTheme.Blue" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_blue_500</item>
+        <item name="colorPrimaryDark">@color/md_blue_700</item>
+        <item name="colorAccent">@color/md_pink_500</item>
+        <item name="colorControlHighlight">@color/md_pink_200</item>
+    </style>
+
+    <style name="AppTheme.Brown" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_brown_500</item>
+        <item name="colorPrimaryDark">@color/md_brown_700</item>
+        <item name="colorAccent">@color/md_grey_500</item>
+        <item name="colorControlHighlight">@color/md_grey_200</item>
+    </style>
+
+    <style name="AppTheme.BlueGrey" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_blue_grey_500</item>
+        <item name="colorPrimaryDark">@color/md_blue_grey_700</item>
+        <item name="colorAccent">@color/md_grey_500</item>
+        <item name="colorControlHighlight">@color/md_grey_200</item>
+    </style>
+
+    <style name="AppTheme.Indigo" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_indigo_500</item>
+        <item name="colorPrimaryDark">@color/md_indigo_700</item>
+        <item name="colorAccent">@color/md_red_500</item>
+        <item name="colorControlHighlight">@color/md_red_200</item>
+    </style>
+
+    <style name="AppTheme.Cyan" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_cyan_500</item>
+        <item name="colorPrimaryDark">@color/md_cyan_700</item>
+        <item name="colorAccent">@color/md_indigo_500</item>
+        <item name="colorControlHighlight">@color/md_indigo_200</item>
+    </style>
+
+    <style name="ContentImageBadgeTitle" parent="AppTheme">
+        <item name="android:alpha">0.5</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="ContentImageBadgeText" parent="AppTheme">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="ContentMainBadgeTitle" parent="AppTheme">
+        <item name="android:textColor">#a9a9a9</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="TitleBadgeText" parent="AppTheme">
+        <item name="android:textColor">#adafb1</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="TitleBadgeTitle" parent="AppTheme">
+        <item name="android:textColor">#adafb1</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+</resources>
