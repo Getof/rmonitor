@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="server_address" translatable="false">http://x.x.x.x:8080/</string>
+    <string name="server_address" translatable="false">http://90.189.215.135:6969/</string>
     <string name="fabric_key" templateMergeStrategy="preserve" translatable="false"></string>
     <string name="stripe_publishable_key" translatable="false"></string>
     <string name="payment_currency" translatable="false">usd</string>

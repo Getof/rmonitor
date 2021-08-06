@@ -17,7 +17,7 @@ import ru.ecom42.rmonitor.common.models.Techdir;
 
 public class CommonUtils {
 
-    public static Techdir rider;
+    public static Techdir user;
     public static Double bestCost = 0d;
     public static int timeOut = 20000;
 //    public static ArrayList<Request> requests = new ArrayList<>();

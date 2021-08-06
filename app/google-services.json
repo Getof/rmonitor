@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "314590964085-dv7fqrparn449m4emhut9920b0iehu6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.ecom42.rmonitor",
+            "certificate_hash": "861717147f0d2786269886f80285854b2bfacbf2"
+          }
+        },
+        {
           "client_id": "314590964085-cfubhc49a5j2mrahq916sdq8kbpn7nef.apps.googleusercontent.com",
           "client_type": 3
         }

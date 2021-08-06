@@ -12,6 +12,8 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.transition.Fade;
 import androidx.transition.TransitionInflater;
 
+import com.google.firebase.FirebaseApp;
+
 import org.greenrobot.eventbus.EventBus;
 
 import ru.ecom42.rmonitor.R;
@@ -26,6 +28,7 @@ public class BaseActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        FirebaseApp.initializeApp(this);
         if(registerEventBus)
             eventBus = EventBus.getDefault();
 //        setupWindowAnimations();

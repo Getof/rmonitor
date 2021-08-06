@@ -52,6 +52,6 @@ public class BaseResultEvent {
     }
 
     public void showAlert(Context context) {
-        AlerterHelper.showError(context, getErrorMessage(context));
+//        AlerterHelper.showError(context, getErrorMessage(context));
     }
 }
